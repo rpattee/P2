@@ -50,3 +50,9 @@ footer .sitemap {
   float: right;
   width: 285px;
 }
+main .changeone {
+  font-weight: bolder;
+}
+main .changetwo {
+  font-style: italic;
+}
